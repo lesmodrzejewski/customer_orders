@@ -1,0 +1,21 @@
+h1 {
+    margin-left: 40px;
+    color: rgb(45, 1, 94);
+}
+
+h2 {
+    color: rgb(0, 3, 87);
+    margin-left: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color:rgb(0, 3, 87)
+}
+
+li a {
+    color: rgb(114, 114, 3)
+}
